@@ -1,6 +1,6 @@
-package com.example.demo.config.controller;
+package com.example.demo.controller;
 
-import com.example.demo.config.model.Item;
+import com.example.demo.model.Item;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
